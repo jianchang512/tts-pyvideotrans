@@ -530,6 +530,7 @@ except Exception as e:
 
 **注意在 index.html 搜索 `https://ttsapi.pyvideotrans.com`, 改为你部署在 cloudflare 的自定义域，否则无法使用**
 
+**注意必须删掉底部的 4个  script  行代码，这是用于本站的统计和广告代码，因该项目直接用于本站，故有此代码**
 
 
 ## 参考
